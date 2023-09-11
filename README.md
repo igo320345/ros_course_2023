@@ -1,5 +1,5 @@
-# ROS Course tutorials (ROS for babies)
-ROS course tutorials: full course from the absolute zero to the practical use in robotics applications.
+# ROS Course (ROS for babies in Robotics)
+ROS course : full course from the absolute zero to the practical use in robotics applications.
 
 ITMO University 2023
 
